@@ -4,7 +4,17 @@
     {
         static void Main(string[] args)
         {
-            
+            //CONSTANTES
+
+            //RECURSOS
+
+            //INICIALIZACIÓN
+
+            //ENTRADA
+
+            //PROCESOS
+
+            //SALIDA
         }
     }
 }
