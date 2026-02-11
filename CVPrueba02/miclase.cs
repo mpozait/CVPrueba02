@@ -20,5 +20,7 @@ namespace CVPrueba02
         //  Implementa los métodos get y set para obtener y establecer los datos asociados
 
         //MÉTODOS - Publicos / Privados
+
+        //
     }
 }
